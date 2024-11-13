@@ -2,6 +2,7 @@
 #DHARSHINIYAA KS 212223100004
 
 #CSE(CS)
+
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
